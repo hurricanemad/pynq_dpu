@@ -22,7 +22,7 @@ then you can set the pynq environment to initalize the development
 
 Additionally, after intalling the pynq_venv environment, the jupyter notebook home folder is created. You can use the below code to enter the folder:
 
-**cd $PYNQ_JUPYTER_NOTEBOOKS$**
+**cd $PYNQ_JUPYTER_NOTEBOOKS**
 
 After running the code, you would enter the path '/root/jupyter_notebooks', which is the working path.
 
@@ -38,7 +38,7 @@ at first, you should intialze the pynq-dpu envrionment as super user
 
 **source  /etc/profile.d/pynq_venv.sh**
 
-**cd $PYNQ_JUPYTER_NOTEBOOKS$**
+**cd $PYNQ_JUPYTER_NOTEBOOKS**
 
 then, you can enter the RDN folder to evaluation the PSNR and SSIM of quantized model. Before that, I have performed quantization in host machine. You can clone [this repository](https://github.com/hurricanemad/Vitis_AI) to review the quantization code.
 
@@ -60,7 +60,7 @@ In the 'pynq-dpu' folder, there is another super-resolution network 'SRNet'. Lik
 
 **source  /etc/profile.d/pynq_venv.sh**
 
-**cd $PYNQ_JUPYTER_NOTEBOOKS$**
+**cd $PYNQ_JUPYTER_NOTEBOOKS**
 
 **cd pynq_dpu/SRNet**
 
@@ -75,7 +75,7 @@ you can run SRNet and evaluate the PSNR of quantized model using the cpp codes.
 Except for above code, I also provide a realtime super resolution program, which implements the RDN network.
 you can enter the 'realtimeRDN' folder and use below code to rum this methods.
 
-**cd $PYNQ_JUPYTER_NOTEBOOKS$**
+**cd $PYNQ_JUPYTER_NOTEBOOKS**
 
 **cd pynq_dpu/realtimeRDN**
 
@@ -89,7 +89,7 @@ you can use another cpp command to start the camera capture and upscale the real
 
 you can also use below command to start the camera capture and run SRNet network
 
-**cd $PYNQ_JUPYTER_NOTEBOOKS$**
+**cd $PYNQ_JUPYTER_NOTEBOOKS**
 
 **cd pynq_dpu/realtimeSRNet**
 
