@@ -1,0 +1,15 @@
+nohup: ignoring input and appending output to 'nohup.out'
+
+(gedit:6552): dconf-WARNING **: 11:17:53.790: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:6552): dconf-WARNING **: 11:17:53.812: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:6552): dconf-WARNING **: 11:17:54.423: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:6552): dconf-WARNING **: 11:17:54.425: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:6552): dconf-WARNING **: 11:17:54.425: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+** (gedit:6552): WARNING **: 11:57:57.793: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+
+(gedit:6552): dconf-WARNING **: 11:57:57.802: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id

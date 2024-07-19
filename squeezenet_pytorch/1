@@ -1,0 +1,19 @@
+nohup: ignoring input and appending output to 'nohup.out'
+
+(gedit:6977): dconf-WARNING **: 03:49:13.467: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:6977): dconf-WARNING **: 03:49:13.485: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:6977): dconf-WARNING **: 03:49:14.111: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:6977): dconf-WARNING **: 03:49:14.112: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:6977): dconf-WARNING **: 03:49:14.113: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+** (gedit:6977): WARNING **: 03:50:35.542: Set document metadata failed: Setting attribute metadata::gedit-spell-language not supported
+
+** (gedit:6977): WARNING **: 03:50:35.543: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:6977): WARNING **: 05:17:59.301: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+
+(gedit:6977): dconf-WARNING **: 05:17:59.310: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id

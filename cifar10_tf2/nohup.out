@@ -1,0 +1,14 @@
+
+(gedit:4634): dconf-WARNING **: 03:12:02.636: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:4634): dconf-WARNING **: 03:12:02.655: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:4634): dconf-WARNING **: 03:12:03.263: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:4634): dconf-WARNING **: 03:12:03.264: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+(gedit:4634): dconf-WARNING **: 03:12:03.264: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id
+
+** (gedit:4634): WARNING **: 03:12:06.390: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+
+(gedit:4634): dconf-WARNING **: 03:12:06.395: failed to commit changes to dconf: Cannot spawn a message bus without a machine-id: Invalid machine ID in /var/lib/dbus/machine-id or /etc/machine-id

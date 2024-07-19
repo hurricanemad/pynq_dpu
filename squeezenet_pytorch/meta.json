@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "squeezenet_pt.xmodel",
+    "kernel": [
+        "subgraph_SqueezeNet__SqueezeNet_3041"
+    ],
+    "target": "DPUCZDX8G_ISA1_B4096"
+}
